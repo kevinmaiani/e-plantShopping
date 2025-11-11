@@ -1,6 +1,6 @@
 # E-Plant Shopping 🌱
 
-A modern e-commerce plant shopping application built with React, Redux Toolkit, and Vite. Browse through various categories of plants, add them to your cart, and manage your selections with a beautiful, responsive interface.
+A modern e-commerce plant shopping application built with React, Redux Toolkit, and Vite. Browse through various categories of plants, add them to your cart, and manage your selections with a responsive interface.
 
 ## 🌐 Live Demo
 
